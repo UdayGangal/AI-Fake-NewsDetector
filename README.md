@@ -36,8 +36,8 @@ Follow these steps to get the application running on your local machine.
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
-cd <your-repository-folder>
+git clone <https://github.com/UdayGangal/AI-Fake-NewsDetector.git>
+cd <AI-Fake-NewsDetector>
 ```
 ### 2.Install requirments
 ```bash
