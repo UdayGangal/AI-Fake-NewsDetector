@@ -16,7 +16,10 @@ This is an interactive web application built with **Streamlit** and powered by *
 
 ## 🚀 Demo
 
-*(You can add a GIF or screenshot of your application here)*
+ ![fake1](https://github.com/user-attachments/assets/d6f49b72-2422-46d2-b995-ca77d1290795)
+
+![fake 2](https://github.com/user-attachments/assets/94e4ea9c-e6b3-4141-92ea-9e929d8f670c)
+
 
 ---
 
